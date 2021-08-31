@@ -1,0 +1,211 @@
+body{
+    font-family: sans-serif;
+}
+header{
+    background: url(img/gamar.jpg);
+    min-height: 30rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.p{
+    margin-top: 30px;
+    padding:50px ;
+    border: white;
+    position: relative;
+    position: 100px;
+    text-transform: uppercase;
+    color: black;
+}
+nav{
+    width:100%;
+    height: 80px;
+    background-color: #0005;
+    line-height: 80px;
+    
+}
+
+nav ul{
+    float: right;
+    margin: 0;
+    margin-right: 1.9rem;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+}
+
+img{
+    size: 0px;
+}
+
+.logo{
+    margin-top: -1%;
+    size: 10px;
+}
+
+nav ul li:hover{
+    background-color: coral;
+    color: #000;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+section{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 4%;
+}
+
+.section h1{
+    color: #fff;
+    line-height: 50px;
+}
+.section p{
+    color: gray;
+}
+
+.btn-1{
+    background-color: orangered;
+    padding: 0.7rem 1rem;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+}
+
+.features{
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+.features button{
+    padding: 0.7rem 2rem;
+    margin-right: 2rem;
+    font-size: 1.2rem;
+    opacity: 0.7rem;
+}
+.showcase h1 {
+    margin-top:5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+.courses {
+    display: flex;
+    padding: 20px;
+    text-align: center;
+}
+#courses img {
+    width: 250px;
+    border-radius: 10p;
+    border: 2px solid #000;
+}
+.apply{
+    margin-top: 4%;
+    background-color: orangered;
+    padding: 0.7rem 1rem;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+}
+footer{
+    background-color:rgb(16, 48, 116);
+    color: #FFF;
+    text-align: 1.2rem;
+    margin-top: 4%;
+}
+.test {
+    padding: 30px;
+}
+.cek{
+ margin: 100px;
+}
+.p {
+    color:white;
+    padding:5px; 
+    text-align: center;
+    background: rgba(51, 51, 51, 0.5);
+    border:0px; width: 100%;
+}
+.showcase {
+    color: white;
+}
+.p2 {
+    font-style: oblique;
+    font-style: italic;
+}
+.sj {
+    color: green;
+    font-style: bold;
+}
+.judul{
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+.Sambutan {
+    text-align: justify;
+    font-style: italic;
+}
+.misi {
+    text-align: center;
+}
+.p1{
+    font-style: italic;
+}
+.visi {
+    text-align: center;
+}
+footer {
+    background-color: rgb(68, 123, 241);
+    color: #FFF;
+    text-align: 1.2rem;
+    margin-top: 4%;
+}
+#footer1 {
+    margin-left: 20px;
+    margin-top: 30px;
+    line-height: 25px;
+    color: white;
+    margin-top: 100px;
+    display: flex;
+}
+.left ul li {
+    display: inline-block;
+    padding: 15px;
+    padding-right: 10px;
+}
+.left{
+    width: 350px;
+    margin-top: 30px;
+}
+.right {
+    margin-left: 10%;
+    margin-top: 9%;
+    /* display: inline-block; */
+}
+.copyright{
+    text-align:center;
+    letter-spacing: 3px;
+    margin-top: 20px;
+    background-color:rgb(1, 0, 37);
+    padding: 5px;
+    font-size: 20px;
+}
+.MOTIVASI{
+    font-style: italic;
+}
+.MOTIVASI h2 {
+    color: green;
+}
+.TKJ {
+    text-align: justify;
+    padding-top: 50px;
+    padding:-20px;
+}
